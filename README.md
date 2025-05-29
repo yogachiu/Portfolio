@@ -4,7 +4,7 @@
 ## 資料庫專案經驗（團隊）
 ###  小卡記錄系統
 - ASP.NET + Microsoft SQL Server | 明星小卡收藏與交易紀錄管理系統
-### 圖書館座位預約系統
+### 圖書館座位預約系統：https://github.com/yogachiu/library
 - PHP + MySQL | 圖書館座位預約與管理系統
   
 ## 其他專案經驗（個人）
