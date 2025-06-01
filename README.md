@@ -6,7 +6,3 @@
 - ASP.NET MVC + Microsoft SQL Server | 明星小卡收藏與交易紀錄管理系統
 ### 圖書館座位預約系統：https://github.com/yogachiu/library
 - PHP + MySQL | 圖書館座位預約與管理系統
-  
-## 其他專案經驗（個人）
-### 秘境台灣（課堂專案）
-- Android Studio | Java | 臺灣旅遊景點推薦應用程式
